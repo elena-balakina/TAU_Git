@@ -8,4 +8,9 @@ public class BowlingGameTest {
     public void jessicaTestOne() {
         System.out.println("It's the first test");
     }
+    
+    @Test
+    public void jessicaTestTwo() {
+        System.out.println("It's the second test");
+    }
 }
